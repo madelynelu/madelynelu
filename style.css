@@ -1,0 +1,21 @@
+body{
+    background-color:#F6F6F7;
+    color:#6495ED;
+    font-family: "Courier New", monospace;}
+h1 {
+    text-align:center;
+    color:#6C756B;
+    font-size: 2.5em;
+    font-family: "Lucida Console", monospace;
+}
+p{
+    text-align:center;
+    color:#93ACB5;
+    font-size: 1.2em;
+    font-family: "Courier New", monospace;
+}
+h2{
+    color:#6495ED;
+    font-size: 1.8em;
+    font-family: "Courier New", monospace;
+}
